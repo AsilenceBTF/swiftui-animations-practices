@@ -18,6 +18,9 @@ struct ContentView: View {
                 NavigationLink(destination: Example2(), label: {
                     Text("Example2: SkewedOffset")
                 })
+                NavigationLink(destination: CradRotate(), label: {
+                    Text("Example3: CradRotate")
+                })
             }
         }
     }

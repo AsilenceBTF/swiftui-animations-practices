@@ -13,6 +13,7 @@
 		56EE92EC2BD6B03600F36B2F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56EE92EB2BD6B03600F36B2F /* Preview Assets.xcassets */; };
 		56EE92F42BD6B06900F36B2F /* PolygonTransform.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56EE92F22BD6B06900F36B2F /* PolygonTransform.swift */; };
 		56EE92F52BD6B06900F36B2F /* LabelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56EE92F32BD6B06900F36B2F /* LabelView.swift */; };
+		56EE92F72BD6C3AE00F36B2F /* CradRotate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56EE92F62BD6C3AE00F36B2F /* CradRotate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		56EE92EB2BD6B03600F36B2F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		56EE92F22BD6B06900F36B2F /* PolygonTransform.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PolygonTransform.swift; sourceTree = "<group>"; };
 		56EE92F32BD6B06900F36B2F /* LabelView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LabelView.swift; sourceTree = "<group>"; };
+		56EE92F62BD6C3AE00F36B2F /* CradRotate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CradRotate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				56EE92F22BD6B06900F36B2F /* PolygonTransform.swift */,
 				56EE92E42BD6B03500F36B2F /* AdvanceAnimationApp.swift */,
 				56EE92E62BD6B03500F36B2F /* ContentView.swift */,
+				56EE92F62BD6C3AE00F36B2F /* CradRotate.swift */,
 				56EE92E82BD6B03600F36B2F /* Assets.xcassets */,
 				56EE92EA2BD6B03600F36B2F /* Preview Content */,
 			);
@@ -147,6 +150,7 @@
 				56EE92F52BD6B06900F36B2F /* LabelView.swift in Sources */,
 				56EE92E72BD6B03500F36B2F /* ContentView.swift in Sources */,
 				56EE92E52BD6B03500F36B2F /* AdvanceAnimationApp.swift in Sources */,
+				56EE92F72BD6C3AE00F36B2F /* CradRotate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
